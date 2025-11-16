@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+dotenv
+asyncpg
+authx
+pydantic[email]
